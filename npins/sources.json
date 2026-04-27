@@ -30,17 +30,20 @@
       "hash": "sha256-PAu6tX0PxuPKro4WJWzxfHCUvsmWuJtgI+msmkNA9AI="
     },
     "smfh": {
-      "type": "Git",
+      "type": "GitRelease",
       "repository": {
         "type": "GitHub",
         "owner": "feel-co",
         "repo": "smfh"
       },
-      "branch": "main",
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "release_prefix": null,
       "submodules": false,
-      "revision": "651bc3d0a9614ba870373cb36d2bc6a9b8cf4627",
-      "url": "https://github.com/feel-co/smfh/archive/651bc3d0a9614ba870373cb36d2bc6a9b8cf4627.tar.gz",
-      "hash": "sha256-iZyYJqBE0zCiibe//4E+Z4TFOgWr6KOLqu/H7NtqYRA="
+      "version": "1.5",
+      "revision": "430e12f92a8f3c339bcbf2e513c850ac74448841",
+      "url": "https://api.github.com/repos/feel-co/smfh/tarball/refs/tags/1.5",
+      "hash": "sha256-RgszLC/p9uov6aXnPGbFRkPzT5xleX17wBCdoMT1wcA="
     }
   },
   "version": 7
